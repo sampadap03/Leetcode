@@ -1,4 +1,4 @@
-# Easy Colelction
+# Easy Collection
 # Array
 # Language : Python3
 # Question : https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564
