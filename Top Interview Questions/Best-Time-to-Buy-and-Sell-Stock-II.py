@@ -1,5 +1,6 @@
-# Easy
+# Easy Colelction
 # Array
+# Language : Python3
 # Question : https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564
 # Best Time to Buy and Sell Stock II
 
