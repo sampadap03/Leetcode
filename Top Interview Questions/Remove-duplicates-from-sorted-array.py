@@ -2,6 +2,7 @@
 # Array
 # Language : Python3
 # Question: https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/
+# Remove duplicates from sorted array
 
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:  
