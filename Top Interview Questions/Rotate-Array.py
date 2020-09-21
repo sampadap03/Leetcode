@@ -5,6 +5,7 @@
 # Memory : 15.1 MB
 # Question : https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/646
 # Rotate Array
+# Statement: Given an array, rotate the array to the right by k steps, where k is non-negative.
 
 class Solution:
     def rotate(self, nums: List[int], k: int) -> None:
