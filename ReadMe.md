@@ -51,7 +51,7 @@ The following third-party libraries are used.
 | Sys | - | - |
 | Yaml | 5.3.1 | `pip3 install pyyaml==5.3.1` |
 
-*Apart from that concurrent.futures a builtin pythoon module is also used.*
+*Apart from that concurrent.futures a built-in python module is also used.*
 User must choose *pip3 or pip* according to compiler specifications.
 
 ---
