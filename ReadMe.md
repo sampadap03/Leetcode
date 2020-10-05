@@ -1,6 +1,7 @@
 # CORTX CFT Dashboard
 This is a web-based application tool for the data generalization, the data representation and the data analysis. 
 The datapoints are the outcomes of CFT and Performance tests harness and regression at Seagate.
+
 ---
 ## Layout
 The application is devided into 4 major sections, namely:
@@ -47,8 +48,10 @@ The following third-party libraries are used.
 | Requests | 2.24.0 | - |
 | Sys | - | - |
 | Yaml | 5.3.1 | `pip3 install pyyaml==5.3.1` |
+
 *Apart from that concurrent.futures a builtin pythoon module is also used.*
 User must choose *pip3 or pip* according to compiler specifications.
+
 ---
 
 ## Execution
