@@ -38,10 +38,12 @@ The following third-party libraries are used.
 | Library | Version | Command to install |
 | ----------- | ----------- | ----------- |
 | Dash 	| 1.13.4 | `pip3 install dash==1.13.4` |
-| Flask | 1.1.2 | `pip3 install flask==1.1.2` |
+| Flask | 1.1.2 | `pip3 install Flask==1.1.2` |
+| Future | 0.18.2 | - |
 | Jira | 2.0.0 | `pip3 install jira==2.0.0` |
 | Multipledispatch | 0.6.0 | `pip3 install multipledispatch==0.6.0` |
 | Pandas | 1.0.5 | `pip3 install pandas==1.0.5` |
+| Plotly | 4.8.2 | `pip3 install plotly==4.8.2` |
 | Pymongo | 3.10.1 | `pip3 install pymongo==3.10.1` |
 | Python3 | 3.7.8 | - |
 | Re | 2.2.1 | - |
@@ -55,5 +57,6 @@ User must choose *pip3 or pip* according to compiler specifications.
 ---
 
 ## Execution
+To install packages use `pip3 install -r requirements.txt` command.
 To run the python script use `python3 Main_app.py` command in the parent directory.
 
