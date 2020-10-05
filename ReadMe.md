@@ -2,7 +2,6 @@
 This is a web-based application tool for the data generalization, the data representation and the data analysis. 
 The datapoints are the outcomes of CFT and Performance tests harness and regression at Seagate.
 
----
 ## Layout
 The application is devided into 4 major sections, namely:
 - Executive report: The summary of the tests harness.
@@ -26,7 +25,7 @@ The code triggers when user enters input as follows,
 	2. Then choose first build to compare, from the dropdown list - compulsary
 	3. Build2 is also available for comparison of builds - optional
 	4. Choose the operation to fetch statistics - compulsary
----
+
 ## Access
 The webpage is accessible at [this location](http://cftic2.pun.seagate.com:5002/). 
 One can provide the build name in the URL itself by adding /report/build. 
@@ -53,8 +52,6 @@ The following third-party libraries are used.
 
 *Apart from that concurrent.futures a built-in python module is also used.*
 User must choose *pip3 or pip* according to compiler specifications.
-
----
 
 ## Execution
 To install packages use `pip3 install -r requirements.txt` command.
